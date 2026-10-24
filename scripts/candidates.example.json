@@ -1,0 +1,23 @@
+{
+  "_instructions": "TEMPLATE ONLY: replace every REPLACE placeholder with a manually verified candidacy and its original source. This placeholder record is not a real person and must not be imported. The 2024 historical label illustrates a past election; never infer a future candidacy.",
+  "people": [
+    {
+      "id": "REPLACE_WITH_STABLE_CANDIDATE_ID",
+      "name": "REPLACE WITH VERIFIED PERSON NAME",
+      "kind": "candidate",
+      "party": "REPLACE WITH VERIFIED PARTY OR INDEPENDENT LABEL",
+      "office": "REPLACE WITH VERIFIED OFFICE SOUGHT IN 2024",
+      "municipality": "",
+      "district": null,
+      "chamber": "candidate",
+      "status": "historical",
+      "electionYear": 2024,
+      "photoUrl": null,
+      "officialUrl": "REPLACE_WITH_HTTPS_URL_OF_ORIGINAL_CANDIDACY_RECORD",
+      "sourceIds": ["cee2024"],
+      "updatedAt": "REPLACE_WITH_REAL_ISO_RETRIEVAL_TIMESTAMP",
+      "biography": "REPLACE WITH A SOURCED DESCRIPTION OF THE HISTORICAL CANDIDACY",
+      "tags": []
+    }
+  ]
+}
